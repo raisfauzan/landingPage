@@ -59,3 +59,11 @@ const typed = new Typed('.multiple-text', {
     backDelay: 1000,
     loop: true
 });
+
+/*=======Scroll ke atas=====*/
+function scrollKeatas() {
+    window.scrollTo({
+        top: 0,
+        behavior: "smooth"
+    });
+};
