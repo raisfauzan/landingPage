@@ -58,7 +58,7 @@ section {
 }
 
 .navbar a {
-    font-size: 1.4rem;
+    font-size: 1.7rem;
     color: var(--text-color);
     margin-left: 4rem;
     transition: .3s;
@@ -82,7 +82,7 @@ section {
     align-items: center;
 }
 
-.home-img {
+.home-img img {
     width: 35vw;
     animation: floatImage 4s ease-in-out infinite;
 }
@@ -457,7 +457,7 @@ span {
     }
 
     .home-img img {
-        width: 100%;
+        width: 70vw;
         margin-top: 4rem;
     }
 
